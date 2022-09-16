@@ -36,6 +36,7 @@ module.exports = {
         { type: 'doc', id: 'relay/match-module' },
         { type: 'doc', id: 'relay/uploadables' },
         { type: 'doc', id: 'relay/entrypoint' },
+        { type: 'doc', id: 'relay/resolver' },
       ],
     },
     { type: 'doc', id: 'rust' },
