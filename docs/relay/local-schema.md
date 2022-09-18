@@ -29,6 +29,13 @@ type Error {
 }
 ```
 
+Set your local schema path to relay config
+```
+{
+  "schemaExtensions": ["./data/schema.local.graphql"]
+}
+```
+
 Run Relay Compiler as usual (no special option required):
 
 ```
